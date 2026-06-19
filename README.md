@@ -419,8 +419,8 @@ This project follows industry-standard security practices:
 ## Author
 
 **Cybersecurity Internship Project**  
-Codec Technologies  
-Email: vaishali@codectechnologies.in
+Codec technologies
+made by milan nai
 
 ---
 
